@@ -26,7 +26,7 @@ const fullBoard = () => {
         }
     }
     return true;
-}
+};
 
 const squares = document.querySelectorAll('.square');
 
